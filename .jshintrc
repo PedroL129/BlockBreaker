@@ -1,0 +1,9 @@
+    {
+        "esversion": 6,
+        "strict": "global",
+        "browser": true,
+        "devel": true,
+        "trailingcomma": false,
+        "curly": true,
+        "eqeqeq": true
+    }
